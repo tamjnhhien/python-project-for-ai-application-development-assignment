@@ -1,5 +1,5 @@
 # python-project-for-ai-application-development-assignment
-Developing AI Applications with Python and Flask
+**Developing AI Applications with Python and Flask**
 
 Here is a summary of the activities within each Task and the total points for each Task. 
 
